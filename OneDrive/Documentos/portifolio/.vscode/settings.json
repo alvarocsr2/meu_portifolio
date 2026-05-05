@@ -1,0 +1,6 @@
+{
+    "html.format.indentHandlebars": true,
+    "html.format.indentInnerHtml": true,
+    "html.format.templating": false,
+    "prettier.embeddedLanguageFormatting": "off"
+}
